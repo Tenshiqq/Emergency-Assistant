@@ -336,7 +336,7 @@ class VuforiaActivity : AppCompatActivity(), GLSurfaceView.Renderer, SurfaceHold
         mHeight = height
 
         // Re-load textures in case they got destroyed
-        val astronautTexture = Texture.loadTextureFromApk("Astronaut.jpg", assets)
+        val astronautTexture = Texture.loadTextureFromApk("flame_material.jpg", assets)
         val landerTexture = Texture.loadTextureFromApk("VikingLander.jpg", assets)
         if (astronautTexture != null && landerTexture != null) {
             setTextures(

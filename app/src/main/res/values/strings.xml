@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vuforia Native Sample</string>
+    <string name="app_name">Emergency Assistant</string>
 
     <string name="splash_screen_description">Splash screen</string>
     <string name="splash_screen_logo">Vuforia Logo</string>
@@ -12,4 +12,15 @@
 
     <string name="ok">OK</string>
     <string name="error_dialog_title">Vuforia error</string>
+
+    <string name="school">School</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="select_text">Выберите ситуацию для воспроизведения симуляции</string>
+    <string name="fire">Пожар</string>
+    <string name="fire_di">Неконтролируемый процесс горения вне специального очага, возникший непроизвольно или по злому умыслу</string>
+    <string name="terr_di">Преступление, главной целью которого является нарушение общественной безопасности</string>
+    <string name="terr_text">Терроризм</string>
 </resources>
