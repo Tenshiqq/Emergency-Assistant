@@ -1,0 +1,1 @@
+C:\Users\tenshi\Documents\ARR\vuforia\samples\vuforia-sample-10-13-4\Android\app\src\main\cpp\CMakeLists.txt
